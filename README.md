@@ -29,10 +29,10 @@ This repository is structured as described below. The CSV files are not provided
 			- Udacity_MAILOUT_052018_TEST.csv
 			- Udacity_MAILOUT_052018_TRAIN.csv
 		- docs/
-            - DIAS Attributes - Values 2017.csv
-            - DIAS Information Levels - Attributes 2017.csv
-        - src
-            - main.ipynb
+            		- DIAS Attributes - Values 2017.csv
+            		- DIAS Information Levels - Attributes 2017.csv
+        	- src
+            		- main.ipynb
  
 ## Licensing, Authors, Acknowledgements
 
